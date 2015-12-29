@@ -1,0 +1,28 @@
+name: Mark Harris
+favicon: null
+layout_spectrum: 0.16673149168491364
+typography_spectrum: 0.6004092530347407
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.20743295131251216
+  lightness: 0.49886065046302974
+  saturation: 0.6460523705463856
+  rhythmicContrast: 0.26218614098615944
+purpose: []
